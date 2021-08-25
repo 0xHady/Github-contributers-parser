@@ -10,3 +10,5 @@ usage:<br />
 4- run emailCollector.sh<br />
 5- let the magic happen<br />
 6- the output (if exists) will be in a new file in the same directory called developersInfo.txt<br />
+
+Note: the links in the github_links_here.txt are examples, feel free to remove them and put your own.
